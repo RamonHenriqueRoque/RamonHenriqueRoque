@@ -2,7 +2,7 @@
 <h3 align="center">Sou estudante de ciências de dados e engenharia de produção</h3>
 
 
-- 🌱 Atualmente estou aprendendo **analises de texto utilizando python**
+- 🌱 Atualmente estou aprendendo **análises de texto utilizando python**
 - 👯 Eu procuro colaborar em **projetos de dados e PLN**
 - 👨‍💻 Meu projetos estão disponiveis em [https://github.com/RamonHenriqueRoque](https://github.com/RamonHenriqueRoque)
 - 📫 Fala comigo em **hramonroque@gmail.com**
