@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, eu sou Ramon Roque</h1>
-<h3 align="center">Sou estudante de ciências de dados e engenharia de produção</h3>
+<h3 align="center">Sou estudante de ciências de dados e engenharia de produção pela UFSCar</h3>
 
 
 - 🌱 Atualmente estou aprendendo **análises de texto utilizando python**
