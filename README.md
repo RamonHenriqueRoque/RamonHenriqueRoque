@@ -19,7 +19,7 @@
 
 ➡ Visualização de dados: Matplotlib, Seaborn e Plotly.
 
-➡ Processamento de linguagem natural: NLTK e Spacy.
+➡ Processamento de linguagem natural: NLTK, Spacy e Gensim.
 
 
 📫 Fala comigo em:
