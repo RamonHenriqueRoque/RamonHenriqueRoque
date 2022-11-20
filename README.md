@@ -5,8 +5,9 @@
 - 🌱 Atualmente estou aprendendo **análises de texto utilizando python**
 - 👯 Eu procuro colaborar em **projetos de ciências de dados**
 - 👨‍💻 Meu projetos estão disponiveis em [https://github.com/RamonHenriqueRoque](https://github.com/RamonHenriqueRoque)
+<!--
 - 💼 Faço parte do Lab Dados e esse é o nosso [GitHub](https://github.com/LabDadosNEO) e o nosso [Linkedin](https://www.linkedin.com/company/lab-dados/).
-
+-->
 <h3 align="left">Linguagem e ferramentas:</h3>
 
 ➡ Consulta de dados: Mysql.
