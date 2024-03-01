@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, eu sou Ramon Roque</h1>
-<h3 align="center">Sou estudante de ciências de dados e engenharia de produção pela UFSCar</h3>
+<h3 align="center">Sou Cientista de dados e Engenharia de produção pela UFSCar</h3>
 
 
 - 🌱 Atualmente estou aprendendo **análises de texto utilizando python**
@@ -10,7 +10,7 @@
 -->
 <h3 align="left">Linguagem e ferramentas:</h3>
 
-➡ Consulta de dados: Mysql.
+➡ Consulta de dados: Mysql, SQL Server e ACCESS.
 
 ➡ Linguagem de programação: Python e R.
 
@@ -21,6 +21,8 @@
 ➡ Visualização de dados: Matplotlib, Seaborn e Plotly.
 
 ➡ Processamento de linguagem natural: NLTK, Spacy, Gensim e  BerTopic.
+
+➡ Aplicativo front: FLET
 
 ➡ BI: Power BI.
 
